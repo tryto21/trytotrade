@@ -14,7 +14,7 @@
 
 ![](qrcode.jpg)
 
-**开发环境** : `OSX 10.12.3` / `Python 3.5`
+**开发环境** : `Windows 7` / `eclipse oxygen` / `Python 3.6`
 
 ### 支持券商
 
