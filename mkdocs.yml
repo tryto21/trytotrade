@@ -1,4 +1,4 @@
-site_name: easytrader
+site_name: TryToTrade
 pages:
 - [index.md, Home]
 - [install.md, 安装]

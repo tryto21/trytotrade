@@ -10,9 +10,9 @@
 
 ## 公众号
 
-请扫码关注“易量化”的微信公众号，不定时更新`easytrader`的最新动态及量化方面的相关文章
+请扫码关注“码未央”的微信公众号，不定时更新`TryToTrade`的最新动态及量化方面的相关文章
 
-![](https://raw.githubusercontent.com/shidenggui/assets/master/easytrader/easy_quant_qrcode.jpg)
+![](qrcode.jpg)
 
 **开发环境** : `OSX 10.12.3` / `Python 3.5`
 
