@@ -5,4 +5,5 @@ pages:
 - [usage.md, 使用]
 - [help.md, 常见问题]
 - [other/xueqiu.md, 其他, '雪球模拟组合说明']
+- [test.md, 测试, '测试']
 theme: readthedocs
